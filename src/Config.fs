@@ -1,11 +1,11 @@
 module Config
 
 let videoDim = 512
-let imgDim = 300
+let imgDim = 1024
 let imgSizesSet = [ 300; 512; 1024 ]
 let linkpreviewWidth = 1200
 let linkpreviewHeight = 628
-let ogImgDim = 512
+let ogImgDim = 1024
 let ogVideoDim = 512
 let maxSupportedImgDim = 1024
 let thumbnailDim = 128
